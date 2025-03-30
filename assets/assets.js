@@ -252,7 +252,7 @@ export const productsDummyData = [
     "name": "Samsung Projector 4k",
     "description": "The Samsung 4K Projector offers an immersive cinematic experience with ultra-high-definition visuals and realistic color accuracy. Equipped with a built-in speaker, it delivers rich sound quality to complement its stunning 4K resolution. Perfect for movie nights, gaming, or presentations, this projector is the ultimate choice for creating an at-home theater experience or professional setting.",
     "price": 1699.99,
-    "offerPrice": 1499.99,
+    "offerPrice": 1699.99,
     "image": [
       "https://raw.githubusercontent.com/avinashdm/gs-images/main/quickcart/qqdcly8a8vkyciy9g0bw.webp"
     ],
