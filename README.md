@@ -63,7 +63,7 @@ npm start
 
 ## 📬 Connect with Us
 - **[Muddassir Shakhan](https://www.linkedin.com/in/muddassir-shakhan-559740257)** - [LinkedIn]
-- - **[Koyyada Anusha](https://www.linkedin.com/in/anusha-koyyada-8b3032261)** - [LinkedIn]
+- **[Koyyada Anusha](https://www.linkedin.com/in/anusha-koyyada-8b3032261)** - [LinkedIn]
 
 ---
 > **Looking for opportunities in software development?** This project showcases our ability to build and deploy real-world applications. Open to internship and job opportunities in top MNCs!
